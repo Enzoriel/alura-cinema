@@ -1,0 +1,8 @@
+iframe {
+  height: 80vh;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+}
