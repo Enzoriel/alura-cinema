@@ -1,4 +1,4 @@
-import Banner from "components/Banner";
+import Banner from "components/Banner/index";
 import Card from "components/Card";
 import Titulo from "components/Titulo";
 import styles from "./index.module.css";
