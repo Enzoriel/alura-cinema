@@ -1,8 +1,8 @@
 import Card from "components/Card";
-import Titulo from "components/Titulo";
 import styles from "./index.module.css";
 import { useEffect, useState } from "react";
 import Banner from "components/Banner";
+import Titulo from "components/Titulo";
 
 function Inicio() {
   const [videos, setVideos] = useState([]);
